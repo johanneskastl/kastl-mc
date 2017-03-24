@@ -12,5 +12,6 @@
 #
 class mc {
 
+  include mc::install
 
 }
